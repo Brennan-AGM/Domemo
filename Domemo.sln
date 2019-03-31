@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{4CA9435C-2F18-A5C5-657B-2D37A5C8F921}") = "Domemo", "Assembly-CSharp.csproj", "{F3D33423-4541-4E05-B276-9DFB0FAA8780}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domemo", "Assembly-CSharp.csproj", "{F3D33423-4541-4E05-B276-9DFB0FAA8780}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
